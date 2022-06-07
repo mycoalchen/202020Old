@@ -190,3 +190,6 @@ git_stats/*
 StyleCop.Cache
 bin
 obj
+
+# installer cache file
+202020Wap/202020\ Installer.assets.cache
